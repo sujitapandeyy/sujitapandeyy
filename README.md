@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sujita Pandey</h1>
 <h3 align="center">A passionate web developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujitapandeyy&label=Profile%20views&color=0e75b6&style=flat" alt="sujitapandeyy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujitapandeyy" alt="sujitapandeyy" /></a> </p>
-
 - 🌱 I’m currently learning **next js**
 
 - 📫 How to reach me **sujitapandey806@gmail.com**
@@ -56,4 +52,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sujitapandeyy/sujitapandeyy/output/snake.svg" alt="Snake animation" />
