@@ -1,6 +1,6 @@
 <!-- Name Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F74C8E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sujita+Pandey;Web+Developer+from+Nepal;Code+%7C+Coffee+%7C+Creativity" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F74C8E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sujita+Pandey;Web+Developer+from+Nepal; Code+%7C+Coffee+%7C+Creativity " alt="Typing SVG" />
 </h1>
 
 <h3 align="center">A passionate web developer who writes code like poetry ✨</h3>
