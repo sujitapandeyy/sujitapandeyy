@@ -1,46 +1,39 @@
-<h1 align="center">Hey there 👋, I'm Sujita Pandey</h1>
+<!-- Name Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F74C8E&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sujita+Pandey;Web+Developer+from+Nepal;Code+%7C+Coffee+%7C+Creativity" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">A passionate web developer who writes code like poetry ✨</h3>
 
 ---
 
-- 🌱 Currently leveling up in **Next.js** (aka: making my React apps faster than my coffee disappears ☕)  
-- 📫 You can **summon me** at: **sujitapandey806@gmail.com**  
-- ⚡ Fun fact: I debug my life like I debug my code… console.log(‘still figuring it out’)  
+### 🌸 About Me
+- 🌱 Currently learning **Next.js** to make my apps faster than my tea cools  
+- 📫 Reach me at: **sujitapandey806@gmail.com**  
+- ⚡ Fun fact: I can debug my code… but not my life  
 
 ---
 
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujitapandeyy&show_icons=true&theme=tokyonight&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujitapandeyy&layout=compact&theme=tokyonight&hide_border=false" height="150" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sujitapandeyy&show_icons=true&theme=rose_pine&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujitapandeyy&layout=compact&theme=rose_pine&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ---
 
-### 🛠 Tech Stack 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" /> 
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
-</div>
-
----
-
-### 🎯 Random Dev Quote  
-> *"First, solve the problem. Then, write the code… and then, wonder why it doesn’t work."*  
-
----
-
+### 🛠 My Tech Stack
 <div align="center">
-  <i>✨ I like my code clean and my coffee strong. PRs welcome! ✨</i>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,python,cs" />
 </div>
+
+---
+
+### 💡 Quote of the Day
+> *"First, solve the problem. Then, write the code. Then, wonder why it doesn’t work."*
+
+---
+
+<p align="center">
+  <i>✨ Always learning. Always building. Always caffeinated. ✨</i>
+</p>
