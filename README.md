@@ -14,13 +14,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sujitapandeyy&show_icons=true&theme=rose_pine&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujitapandeyy&layout=compact&theme=rose_pine&hide_border=false" height="150" alt="languages graph" />
-</div>
-
----
 
 ### 🛠 My Tech Stack
 <div align="center">
@@ -29,11 +22,7 @@
 
 ---
 
-### 💡 Quote of the Day
-> *"First, solve the problem. Then, write the code. Then, wonder why it doesn’t work."*
-
----
 
 <p align="center">
-  <i>✨ Always learning. Always building. Always caffeinated. ✨</i>
+  <i>✨"First, solve the problem. Then, write the code. Then, wonder why it doesn’t work." ✨</i>
 </p>
